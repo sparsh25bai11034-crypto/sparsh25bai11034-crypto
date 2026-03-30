@@ -1,7 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sparsh Gupta
+
+- B.Tech Student at VIT Bhopal University
+- Branch: CSE (AI & ML)
+- Year: 1st Year
+
+## About Me
+I am learning programming and improving my technical skills.
 
 <!--
-**sparsh25bai11034-crypto/sparsh25bai11034-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sparsh25bai11034-crypto/sparsh2# Hi, I'm Sparsh Gupta
+
+- B.Tech Student at VIT Bhopal University
+- Branch: CSE (AI & ML)
+- Year: 1st Year
+
+## About Me
+I am learning programming and improving my technical skills.5bai11034-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
